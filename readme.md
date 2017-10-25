@@ -1,6 +1,10 @@
-# Visualization
+# General Info
 
-The [pandas](../pandas/readme.md) section covers plotting pandas data frames directly, but sometimes you need to go beyond the defaults, especially to make publication-quality graphics.
+General information about RCS Python Workshops can be found in the [Python Workshops Repository](https://github.com/nuitrcs/pythonworkshops).  This includes information about software installations and general Python resources.
+
+# Visualization Overview
+
+The [pandas](https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/pandas) workshop covers plotting pandas data frames directly, but sometimes you need to go beyond the defaults, especially to make publication-quality graphics.
 
 [matplotlib](https://matplotlib.org/) is the core data visualization library in Python.
 
@@ -11,30 +15,33 @@ pandas plotting is built on [matplotlib](https://matplotlib.org/), as are additi
 There are [other packages](https://blog.modeanalytics.com/python-data-visualization-libraries/) too.
 
 
-## Downloading Files
+# Downloading Files
 
-### Individual Files
+## Recommended: Entire directory
+
+You can download all of the files by clicking the green button above and choosing "Download ZIP."
+
+## Individual Files
 
 **If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
-### Entire directory
-
-You can download all of the files from just this directory as a .zip file from [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization).
-
-### Downloading Exercises
-
-To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type, or remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
+To download exercise/workshop files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type, or remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
 
 On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
 
-[Exercises WITHOUT Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises.ipynb)
+[Workshop File](https://github.com/nuitrcs/pythonvisualization/raw/master/plotting.ipynb); if you only download this file, you'll be missing some linked image files
 
-[Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises_with_answers.ipynb)
+[Exercises WITHOUT Answers](https://github.com/nuitrcs/pythonvisualization/raw/master/visualization_exercises.ipynb)
+
+[Exercises WITH Answers](https://github.com/nuitrcs/pythonvisualization/raw/master/visualization_exercises_with_answers.ipynb)
 
 
-## Resources
 
-In addition to the links above, some more resources:
+
+
+# Resources
+
+Some general Python resources that cover multiple topics can be found in our [Python Resource List](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md).  Additional visualization-specific resources include:
 
 [matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf): common commands in a convenient single-page pdf
 
