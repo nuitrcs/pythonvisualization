@@ -53,6 +53,8 @@ Jim Griffin
 @[8](Figure methods control axes layout and saving)
 ---
 
-### Detailed plot anatomy
+#### Detailed plot anatomy
 
-<img src="Images/anatomy1.png" style="max-height: 500px;"/>
+<img src="Images/anatomy1.png" style="max-height: 550px;"/>
+
+--- Common plot types
