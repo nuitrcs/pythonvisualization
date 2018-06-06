@@ -35,32 +35,15 @@ Jim Griffin
   import matplotlib.pyplot as plt
 
   fig, ax = plt.subplots()
+
   ax.plot(x,y, ***kwargs)
   ax.set_xlabel('x label')
+
   fig.savefig('path/to/file.png')
 ```
 @[1](Matplotlib import statement)
 @[3](Create figure and axis objects)
-@[4-5](Axes objects have methods for most common plot types<br></br>(line, scatter, bar, pie, etc.)
-@[4-5](Axes methods also control labels, titles, limits, tick properties)
-@[6](Figure methods control axes layout and saving)
+@[5](Axes objects have methods for most common plot types</br>(i.e. line, scatter, bar, pie))
+@[6](Axes methods also control labels, titles, limits, tick properties)
+@[8](Figure methods control axes layout and saving)
 ---
-
-
-
-
-
-
----?image=Images/plotparts.png&size=auto 50%
-#### Parts of a python plot:
-
----
-* write stuff
-
-
----
-
-
-```
-
-```
