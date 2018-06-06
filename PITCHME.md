@@ -59,11 +59,18 @@ Jim Griffin
 
 ---
 
-#### Common plot types
+### Common plot types
 
 add something
 
-#### Additional Resources:
+---
+### Stack Overflow
+
+The most valuable thing you can learn in this class is what things are called and how they are organized so that you can google *"site:stackoverflow.com matplotlib THING"*
+
+
+---
+### Additional Resources:
 
 * [Tufte, The Visual Display of Quantitative Information](https://github.com/yowenter/books/blob/master/Design/Edward%20R%20Tufte%20-The%20Visual%20Display%20of%20Quantitative%20Information.pdf)
 * [NUIT Python Workshops](https://github.com/nuitrcs/pythonworkshops)
