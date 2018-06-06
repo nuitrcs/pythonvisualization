@@ -45,12 +45,15 @@ sup?
   )
 @[5](Figure methods control axes layout and saving)
 
+![Anatomy1](Images/plotparts.png)
+
 
 ---?image=Images/plotparts.png&size=auto 50%
 #### Parts of a python plot:
 
 ---
 * write stuff
+<img src="Images/plotparts.png" style="max-height: 300px;"/>
 
 ---
 
