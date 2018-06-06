@@ -14,9 +14,9 @@ Jim Griffin
   * types of plots
   * matplotlib organization  
 * Simple examples  
-* Styling elements  
+* Styling plot elements  
 * Plotting with **Pandas** dataframes  
-* Pretty plots (**Seaborn**)  
+* Pretty plots (**Seaborn**, colorpalettes)  
 
 ---
 ### Object Oriented Interface
@@ -36,9 +36,10 @@ fig, ax = plt.subplots()
 ax.plot(x,y, ***kwargs)
 fig.savefig('path/to/file.png')
 ```
-@[3] Create figure and axis objects
-@[4] Most plotting functions exist as Axes methods
-@[5] Figure methods control axes layout and saving
+@[1](Matplotlib import statement)
+@[3](Create figure and axis objects)
+@[4](Most plotting functions exist as Axes methods)
+@[5](Figure methods control axes layout and saving)
 
 
 ---?image=Images/plotparts.png&size=auto 50%
