@@ -1,4 +1,4 @@
-## Python Visualization Workshop
+### Python Visualization Workshop
 
 
 Northwestern IT Research Computing Services  
@@ -7,7 +7,7 @@ July 9, 2018
 Jim Griffin
 
 ---
-### Outline
+#### Outline
 
 * Intro  
   * plot anatomy
@@ -21,7 +21,9 @@ Jim Griffin
 ---
 ### Object Oriented Interface
 
-* Matplotlib plots have two primary classes - Figures and Axes
+* Matplotlib plots have two primary classes:  
+  * Figures  
+  * Axes  
 * Preferred plotting approach is:
   1. Create figure and axis instances w/ plt.subplots
   2. Use figure and axis methods to modify visual elements
@@ -43,7 +45,6 @@ fig.savefig('path/to/file.png')
 @[4-5](Axes methods also control labels, titles, limits, tick properties)
 @[6](Figure methods control axes layout and saving)
 
-<img src="Images/plotparts.png" style="max-height: 300px;"/>
 
 
 ---?image=Images/plotparts.png&size=auto 50%
