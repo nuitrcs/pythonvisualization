@@ -1,4 +1,4 @@
-### Python Visualization Workshop
+## Python Visualization Workshop
 
 
 Northwestern IT Research Computing Services  
@@ -7,7 +7,7 @@ July 9, 2018
 Jim Griffin
 
 ---
-#### Outline
+## Outline
 
 * Intro Slides
   * matplotlib organization
@@ -20,21 +20,21 @@ Jim Griffin
 
 ---
 
-#### Matplotlib.pyplot Classes
+## Matplotlib.pyplot Objects
   * Figure  
   * Axes  
 <img src="Images/plotparts.png" style="max-height: 400px;"/>
 
 ---
 
-##### Preferred (Object-oriented) approach:
+### Preferred (Object-oriented) approach:
 
   1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
 
 ---
 
-##### Example matplotlib syntax
+### Example matplotlib syntax
 
 ```python
   import matplotlib.pyplot as plt
@@ -52,3 +52,7 @@ Jim Griffin
 @[6](Axes methods also control labels, titles, limits, tick properties)
 @[8](Figure methods control axes layout and saving)
 ---
+
+### Detailed plot anatomy
+
+<img src="Images/anatomy1.png" style="max-height: 500px;"/>
