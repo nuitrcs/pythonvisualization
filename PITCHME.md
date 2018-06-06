@@ -38,7 +38,10 @@ fig.savefig('path/to/file.png')
 ```
 @[1](Matplotlib import statement)
 @[3](Create figure and axis objects)
-@[4](Most plotting functions exist as Axes methods)
+@[4](Most plotting functions exist as Axes methods  
+multiline??  
+sup?
+  )
 @[5](Figure methods control axes layout and saving)
 
 
