@@ -19,14 +19,19 @@ Jim Griffin
 * Pretty plots (**Seaborn**, colorpalettes)  
 
 ---
+
 #### Matplotlib.pyplot Classes
   * Figure  
   * Axes  
 <img src="Images/plotparts.png" style="max-height: 400px;"/>
+
 ---
+
 ##### Preferred (Object-oriented) approach:
+
   1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
+
 ---
 
 ##### Example matplotlib syntax
