@@ -25,6 +25,8 @@ Jim Griffin
   * Figures  
   * Axes  
 
+<img src="Images/plotparts.png" style="max-height: 300px;"/>
+---
 * Preferred (Object-oriented) approach:
   1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
