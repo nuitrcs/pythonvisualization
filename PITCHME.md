@@ -64,9 +64,10 @@ Jim Griffin
 add something
 
 ---
-### Stack Overflow
+##### Stack Overflow Is Better At Programming Than Us
 
-The most valuable thing you can learn in this class is what things are called and how they are organized so that you can google *"site:stackoverflow.com matplotlib THING"*
+The most valuable thing you can learn in this class is what things are called and how they are organized so that you can google:  
+ **"site:stackoverflow.com matplotlib THING"**
 
 
 ---
