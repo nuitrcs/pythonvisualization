@@ -10,9 +10,9 @@ Jim Griffin
 ### Outline
 
 * Intro  
-  *plot anatomy  
-  *types of plots  
-  *matplotlib organization  
+  * plot anatomy
+  * types of plots
+  * matplotlib organization  
 * Simple examples  
 * Styling elements  
 * Plotting with **Pandas** dataframes  
