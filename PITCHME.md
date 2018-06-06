@@ -24,6 +24,7 @@ Jim Griffin
 * Matplotlib plots have two primary classes:  
   * Figures  
   * Axes  
+  
 * Preferred plotting approach is:
   1. Create figure and axis instances w/ plt.subplots
   2. Use figure and axis methods to modify visual elements
