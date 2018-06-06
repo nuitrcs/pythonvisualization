@@ -9,11 +9,14 @@ Jim Griffin
 ---
 ### Outline
 
-** Intro (plot anatomy, types of plots, matplotlib organization)
-** Simple examples
-** Styling elements
-** Plotting with pandas dataframes
-** Pretty plots (Seaborn)
+* Intro  
+  *plot anatomy  
+  *types of plots  
+  *matplotlib organization  
+* Simple examples  
+* Styling elements  
+* Plotting with **Pandas** dataframes  
+* Pretty plots (**Seaborn**)  
 
 ---
 ### Object Oriented Interface
