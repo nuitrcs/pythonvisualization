@@ -27,14 +27,14 @@ Jim Griffin
 
 ---
 
-### Preferred (Object-oriented) approach:
+### Preferred (Object Oriented) Approach:
 
   1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
 
 ---
 
-### Example matplotlib syntax
+### Matplotlib Object Oriented Syntax
 
 ```python
   import matplotlib.pyplot as plt
@@ -59,7 +59,7 @@ Jim Griffin
 
 ---
 
-### Common plot types
+### Common Plot Types
 
 add something
 
