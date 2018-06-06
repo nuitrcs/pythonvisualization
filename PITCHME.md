@@ -38,6 +38,7 @@ fig.savefig('path/to/file.png')
 ```
 @[1](Matplotlib import statement)
 @[3](Create figure and axis objects)
+@[3](like this?)
 @[4](Most plotting functions exist as Axes methods  
 multiline??  
 sup?
