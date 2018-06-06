@@ -1,6 +1,6 @@
 theme : moon
 
-layout : top
+layout : center-left
 
 theme-override : assets/css/PITCHME.css
 
