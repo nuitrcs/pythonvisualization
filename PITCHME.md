@@ -24,9 +24,9 @@ Jim Griffin
 * Matplotlib plots have two primary classes:  
   * Figures  
   * Axes  
-  
-* Preferred plotting approach is:
-  1. Create figure and axis instances w/ plt.subplots
+
+* Preferred (Object-oriented) approach:
+  1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
 
 ---
@@ -42,7 +42,7 @@ fig.savefig('path/to/file.png')
 ```
 @[1](Matplotlib import statement)
 @[3](Create figure and axis objects)
-@[4-5](Axes objects have methods for most common plot types (line, scatter, bar, pie, etc.)
+@[4-5](Axes objects have methods for most common plot types<br></br>(line, scatter, bar, pie, etc.)
 @[4-5](Axes methods also control labels, titles, limits, tick properties)
 @[6](Figure methods control axes layout and saving)
 
