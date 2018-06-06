@@ -57,4 +57,14 @@ Jim Griffin
 
 <img src="Images/anatomy1.png" style="max-height: 550px;"/>
 
---- Common plot types
+---
+
+#### Common plot types
+
+add something
+
+#### Additional Resources:
+
+* [Tufte, The Visual Display of Quantitative Information](https://github.com/yowenter/books/blob/master/Design/Edward%20R%20Tufte%20-The%20Visual%20Display%20of%20Quantitative%20Information.pdf)
+* [NUIT Python Workshops](https://github.com/nuitrcs/pythonworkshops)
+* [Python graph gallery](https://python-graph-gallery.com/)
