@@ -6,7 +6,7 @@ July 9, 2018
 
 Jim Griffin
 
----?image=Images/plotparts.png&size=auto 50
+---?image=Images/plotparts.png&size=auto 25%
 ### Parts of a python plot:
 
 ---
