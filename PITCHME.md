@@ -1,6 +1,8 @@
 ## Python Visualization Workshop
-##### Northwestern IT Research Computing Services
-##### July 9, 2018
+
+
+Northwestern IT Research Computing Services
+July 9, 2018
 
 ---
 
