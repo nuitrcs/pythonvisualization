@@ -1,8 +1,6 @@
-theme : night
+theme : moon
 
-layout : center-right
-
-logo : assets/images/logo.png
+layout : center
 
 theme-override : assets/css/PITCHME.css
 
