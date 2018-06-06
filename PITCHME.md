@@ -12,8 +12,7 @@ Jim Griffin
 * Intro Slides
   * matplotlib organization
   * plot anatomy
-  * types of plots
-
+  * types of plots  
 * Simple examples
 * Styling plot elements  
 * Plotting with **Pandas** dataframes  
