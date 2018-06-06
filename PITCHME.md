@@ -19,7 +19,7 @@ Jim Griffin
 * Pretty plots (**Seaborn**, colorpalettes)  
 
 ---
-### Matplotlib.pyplot Classes
+#### Matplotlib.pyplot Classes
   * Figure  
   * Axes  
 <img src="Images/plotparts.png" style="max-height: 300px;"/>
@@ -36,11 +36,11 @@ Jim Griffin
   ax.set_xlabel('x label')
   fig.savefig('path/to/file.png')
 ```
-  @[1](Matplotlib import statement)
-  @[3](Create figure and axis objects)
-  @[4-5](Axes objects have methods for most common plot types<br></br>(line, scatter, bar, pie, etc.)
-  @[4-5](Axes methods also control labels, titles, limits, tick properties)
-  @[6](Figure methods control axes layout and saving)
+@[1](Matplotlib import statement)
+@[3](Create figure and axis objects)
+@[4-5](Axes objects have methods for most common plot types<br></br>(line, scatter, bar, pie, etc.)
+@[4-5](Axes methods also control labels, titles, limits, tick properties)
+@[6](Figure methods control axes layout and saving)
 
 ---
 
