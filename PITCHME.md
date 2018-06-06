@@ -22,11 +22,14 @@ Jim Griffin
 #### Matplotlib.pyplot Classes
   * Figure  
   * Axes  
-<img src="Images/plotparts.png" style="max-height: 300px;"/>
+<img src="Images/plotparts.png" style="max-height: 400px;"/>
 ---
 ##### Preferred (Object-oriented) approach:
   1. Create figure and axis objects
   2. Use figure and axis methods to modify visual elements
+---
+
+##### Example matplotlib syntax
 
 ```python
   import matplotlib.pyplot as plt
@@ -41,10 +44,9 @@ Jim Griffin
 @[4-5](Axes objects have methods for most common plot types<br></br>(line, scatter, bar, pie, etc.)
 @[4-5](Axes methods also control labels, titles, limits, tick properties)
 @[6](Figure methods control axes layout and saving)
-
 ---
 
-### Example matplotlib syntax
+
 
 
 
