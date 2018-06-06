@@ -28,24 +28,22 @@ Jim Griffin
 
 ---
 
-### Basic matplotlib syntax
+### Example matplotlib syntax
 ```python
 import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots()
 ax.plot(x,y, ***kwargs)
+ax.set_xlabel('x label')
 fig.savefig('path/to/file.png')
 ```
 @[1](Matplotlib import statement)
 @[3](Create figure and axis objects)
-@[3](like this?)
-@[4](Most plotting functions exist as Axes methods  
-multiline??  
-sup?
-  )
-@[5](Figure methods control axes layout and saving)
+@[4-5](Axes objects have methods for most common plot types (line, scatter, bar, pie, etc.)
+@[4-5](Axes methods also control labels, titles, limits, tick properties)
+@[6](Figure methods control axes layout and saving)
 
-![Anatomy1](Images/plotparts.png)
+<img src="Images/plotparts.png" style="max-height: 300px;"/>
 
 
 ---?image=Images/plotparts.png&size=auto 50%
@@ -53,7 +51,7 @@ sup?
 
 ---
 * write stuff
-<img src="Images/plotparts.png" style="max-height: 300px;"/>
+
 
 ---
 
