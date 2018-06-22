@@ -1,3 +1,5 @@
+**Workshop materials are still being updated for Summer 2018.**
+
 # General Info
 
 General information about RCS Python Workshops can be found in the [Python Workshops Repository](https://github.com/nuitrcs/pythonworkshops).  This includes information about software installations and general Python resources.
