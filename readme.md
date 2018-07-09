@@ -1,4 +1,3 @@
-**Workshop materials are still being updated for Summer 2018.**
 
 # General Info
 
