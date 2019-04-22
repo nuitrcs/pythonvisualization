@@ -44,8 +44,6 @@ On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the
 
 Some general Python resources that cover multiple topics can be found in our [Python Resource List](https://github.com/nuitrcs/pythonworkshops/blob/master/resources.md).  Additional visualization-specific resources include:
 
-[matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf): common commands in a convenient single-page pdf
-
 [matplotlib Tutorial](http://researchcomputing.github.io/meetup_spring_2014/python/doc_mpl.html) from UC Boulder Research Computing
 
 [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/): examples of plots frequently used when exploring data
