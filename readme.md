@@ -50,3 +50,5 @@ Some general Python resources that cover multiple topics can be found in our [Py
 
 [The Python Graph Gallery](https://python-graph-gallery.com/) provides example plots with the code to make them; spans across different visualization libraries 
 
+[Data Visualization: from Non-Coder to Coder](https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder) by Alexis Cook; visualization tutorial/course aimed at those new to programming
+
